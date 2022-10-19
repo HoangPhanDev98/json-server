@@ -1,0 +1,28 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js",
+    "generate-data": "node generate-data.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "HoangPhanDev98",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "query-string": "^7.1.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "casual": "^1.6.2",
+    "faker": "^6.6.6",
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}

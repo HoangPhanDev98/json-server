@@ -1,0 +1,67 @@
+@baseUrl = http://localhost:3000/api
+
+@resourceName = products
+
+# Products
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+     "categoryId": "06d864f8-19bb-4a3e-8cfa-feca49c73f61",
+    "name": "Tasty Concrete Mouse 1",
+    "color": "sky blue",
+    "price": 444,
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "thumbnailUrl": "https://loremflickr.com/400/400"
+
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/eEHO-kt
+
+Content-Type: application/json
+
+{
+    "name": "Tasty Concrete Mouse 1",
+    "color": "sky blue",
+    "price": 444
+}
+
+###
+
+# @name remove
+DELETE  {{baseUrl}}/{{resourceName}}/2
+
+###
+
+# @name filterProducts
+
+GET {{baseUrl}}/{{resourceName}}?price_gte=900
+
+###
+
+# @name filterProducts
+
+GET {{baseUrl}}/{{resourceName}}?name_like=tasty
+
+###
+
+# @name pagination
+
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=20
+
+###
+
+# @name sort
+
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=desc
+

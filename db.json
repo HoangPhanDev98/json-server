@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": "06d864f8-19bb-4a3e-8cfa-feca49c73f61",
+      "name": "Health",
+      "createdAt": 1666107789243,
+      "updatedAt": 1666107789243
+    },
+    {
+      "id": "1031deed-86c2-4ccb-a5b1-f9c5204c5dde",
+      "name": "Shoes",
+      "createdAt": 1666107789243,
+      "updatedAt": 1666107789243
+    },
+    {
+      "id": "7f78bf96-1956-4caf-a387-3c672b20a93f",
+      "name": "Music",
+      "createdAt": 1666107789243,
+      "updatedAt": 1666107789243
+    },
+    {
+      "id": "2708f9a6-882e-4df4-a00d-c1f0c273497a",
+      "name": "Games",
+      "createdAt": 1666107789243,
+      "updatedAt": 1666107789243
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "06d864f8-19bb-4a3e-8cfa-feca49c73f61",
+      "id": "50e09161-17f4-495d-b63e-96929f319bcf",
+      "name": "Refined Cotton Chicken",
+      "color": "lavender",
+      "price": 558,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789243,
+      "updatedAt": 1666107789243
+    },
+    {
+      "categoryId": "06d864f8-19bb-4a3e-8cfa-feca49c73f61",
+      "id": "e2ee1201-d8a5-492a-a994-647825a30bfe",
+      "name": "Awesome Soft Shoes",
+      "color": "lavender",
+      "price": 306,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "06d864f8-19bb-4a3e-8cfa-feca49c73f61",
+      "id": "0f7c1c4b-16c1-4124-ac91-12b4e43cb299",
+      "name": "Electronic Steel Car",
+      "color": "magenta",
+      "price": 482,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "06d864f8-19bb-4a3e-8cfa-feca49c73f61",
+      "id": "6c0641cb-ebd6-4edc-8494-b44367f3a6a9",
+      "name": "Tasty Concrete Mouse",
+      "color": "sky blue",
+      "price": 691,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "06d864f8-19bb-4a3e-8cfa-feca49c73f61",
+      "id": "8674498c-2b00-47b0-b466-4053286e720b",
+      "name": "Unbranded Granite Bike",
+      "color": "fuchsia",
+      "price": 128,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "1031deed-86c2-4ccb-a5b1-f9c5204c5dde",
+      "id": "c8bb63c8-278c-4c24-a4cf-2968fafe0021",
+      "name": "Ergonomic Frozen Shirt",
+      "color": "purple",
+      "price": 450,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "1031deed-86c2-4ccb-a5b1-f9c5204c5dde",
+      "id": "284e7584-dc5e-4eef-8f57-f6d8eeed4646",
+      "name": "Elegant Granite Chicken",
+      "color": "red",
+      "price": 977,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "1031deed-86c2-4ccb-a5b1-f9c5204c5dde",
+      "id": "02ee4203-1dcc-4668-af45-890978752fcc",
+      "name": "Ergonomic Concrete Salad",
+      "color": "sky blue",
+      "price": 248,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "1031deed-86c2-4ccb-a5b1-f9c5204c5dde",
+      "id": "26516218-779f-48ec-9d9f-0425b8719afd",
+      "name": "Small Granite Tuna",
+      "color": "blue",
+      "price": 93,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "1031deed-86c2-4ccb-a5b1-f9c5204c5dde",
+      "id": "ccd6e207-532a-4d94-af6e-cac50381cba3",
+      "name": "Tasty Metal Gloves",
+      "color": "orchid",
+      "price": 296,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "7f78bf96-1956-4caf-a387-3c672b20a93f",
+      "id": "77eef4e1-583e-472a-ae6e-d7a1e354e42b",
+      "name": "Sleek Wooden Chips",
+      "color": "turquoise",
+      "price": 60,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "7f78bf96-1956-4caf-a387-3c672b20a93f",
+      "id": "fc64b479-85de-4ecb-9df9-09319f490661",
+      "name": "Generic Fresh Pants",
+      "color": "violet",
+      "price": 431,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "7f78bf96-1956-4caf-a387-3c672b20a93f",
+      "id": "e861f506-f520-4022-ab0a-ee900f536da6",
+      "name": "Practical Cotton Salad",
+      "color": "fuchsia",
+      "price": 552,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "7f78bf96-1956-4caf-a387-3c672b20a93f",
+      "id": "6ef6270b-b587-4fe5-acac-b8207285d93a",
+      "name": "Generic Rubber Chicken",
+      "color": "pink",
+      "price": 322,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "7f78bf96-1956-4caf-a387-3c672b20a93f",
+      "id": "be250031-3fb1-42fb-acd2-0b596bd1e9f7",
+      "name": "Generic Bronze Pizza",
+      "color": "yellow",
+      "price": 550,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "2708f9a6-882e-4df4-a00d-c1f0c273497a",
+      "id": "f779dca6-463f-44bc-b72e-7a9c519b8c0f",
+      "name": "Sleek Cotton Bacon",
+      "color": "indigo",
+      "price": 264,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "2708f9a6-882e-4df4-a00d-c1f0c273497a",
+      "id": "df1160f2-b5fe-4c0a-a022-86aadbc727e4",
+      "name": "Recycled Soft Chicken",
+      "color": "red",
+      "price": 920,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789244,
+      "updatedAt": 1666107789244
+    },
+    {
+      "categoryId": "2708f9a6-882e-4df4-a00d-c1f0c273497a",
+      "id": "59990930-394e-44b8-b59c-e5b252ba88f5",
+      "name": "Ergonomic Granite Tuna",
+      "color": "orchid",
+      "price": 636,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789245,
+      "updatedAt": 1666107789245
+    },
+    {
+      "categoryId": "2708f9a6-882e-4df4-a00d-c1f0c273497a",
+      "id": "732d66eb-3533-4025-aeac-7bbb66c51659",
+      "name": "Small Soft Bacon",
+      "color": "olive",
+      "price": 96,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789245,
+      "updatedAt": 1666107789245
+    },
+    {
+      "categoryId": "2708f9a6-882e-4df4-a00d-c1f0c273497a",
+      "id": "62d65197-b73a-4620-9d65-be7a77f7c367",
+      "name": "Handcrafted Cotton Fish",
+      "color": "silver",
+      "price": 388,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666107789245,
+      "updatedAt": 1666107789245
+    },
+    {
+      "categoryId": "06d864f8-19bb-4a3e-8cfa-feca49c73f61",
+      "name": "Tasty Concrete Mouse 1",
+      "color": "sky blue",
+      "price": 444,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1666143133156,
+      "updatedAt": 1666143207169,
+      "id": "eEHO-kt"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
